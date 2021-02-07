@@ -10,6 +10,9 @@ This repository contains the files for a text classification machine learning mo
 
 ## TensorFlow model
 * [Basic text classification](https://www.tensorflow.org/tutorials/keras/text_classification)
+* [Installation](https://www.tensorflow.org/hub/installation)
+* [What is the best method for Automatic Text Classification?](https://towardsdatascience.com/https-medium-com-piercarlo-slavazza-what-is-the-best-method-for-automatic-text-classification-a01d4dfadd)
+* [Multi-Class Text Classification with Extremely Small Data Set (Deep Learning!)](https://medium.com/@ruixuanl/multi-class-text-classification-with-extremely-small-data-set-deep-learning-b38dfb386f8e)
 
 ## How to Python
 * [Replacing strings with numbers in Python for Data Analysis](https://www.geeksforgeeks.org/replacing-strings-with-numbers-in-python-for-data-analysis/)
