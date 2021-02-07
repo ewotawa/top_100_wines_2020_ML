@@ -1,6 +1,7 @@
 # Directories #
 .ipynb_checkpoints/
 review_data/
+images/
 
 # Files #
 CSV_Wines.csv
