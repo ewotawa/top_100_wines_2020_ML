@@ -16,6 +16,11 @@ This repository contains the files for a text classification machine learning mo
 * [TemsorFlow Core: Save and Load Models](https://www.tensorflow.org/tutorials/keras/save_and_load)]
 * [Unable to restore a layer of class TextVectorization - Text Classification #45231](https://github.com/tensorflow/tensorflow/issues/45231)
 
+## scikit-learn SVM model
+* [scikit-learn: Working with Text Data](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
+* [datacamp: Support Vector Machines with Scikit-learn](https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python)
+* [Python : How to Save and Load ML Models](https://www.kaggle.com/prmohanty/python-how-to-save-and-load-ml-models)
+
 ## How to Python
 * [Replacing strings with numbers in Python for Data Analysis](https://www.geeksforgeeks.org/replacing-strings-with-numbers-in-python-for-data-analysis/)
 * [Python: Check if a File or Directory Exists](https://www.geeksforgeeks.org/python-check-if-a-file-or-directory-exists-2/)
